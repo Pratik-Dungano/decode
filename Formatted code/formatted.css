@@ -911,6 +911,7 @@ noscript{
     width: 60%;
     display: flex;
     flex-direction: column;
+    height: 100%;
 }
 .about-info p{
     font-size: 2rem;
